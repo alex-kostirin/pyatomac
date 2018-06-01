@@ -45,10 +45,13 @@ _a11y = Extension(
 
 setup(
     name='pyatomac',
-    version='2.0.5',
+    version='2.0.6',
     author='Alexey Kostyrin',
     author_email='Alexey.Kostyrin@kaspersky.com',
-    url='https://pypi.python.org/pypi/pyathom/',
+    url='https://pypi.org/project/pyatomac/',
+    project_urls={
+        "Source Code": "https://github.com/alex-kostirin/pyatomac",
+    },
     description=("Automated Testing on Mac - test GUI applications "
                  "written in Cocoa by using Apple's Accessibility API"),
     license='GPLv2',
