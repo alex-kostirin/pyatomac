@@ -13,7 +13,7 @@ Systemwide accessibility must be enabled. Check the checkbox: System Preferences
 
 Installation should be as simple as running the following command line, which will download, build and install ATOMac::
 
- $ sudo easy_install atomac
+ $ sudo pip install pyatomac
 
 Usage
 =====
